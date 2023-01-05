@@ -28,11 +28,7 @@ This application was created to help online shopping platforms manage and track 
     3. npm install sequelize
     4. npm install mysql2
     5. npm install express
-    ```
-
-    ```
-    1. clone the repository using https or SSH
-    2. run npm i
+    6. run npm i
     ```
 * open mysql2 by using: mysql -u root -p
 
