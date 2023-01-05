@@ -9,6 +9,7 @@
 - [Mock-Up](#mock-up)
 
 # Description
+E Commerce Site is an application that uses Node.js, Express and MySQL to host backend data using the CRUD functionalities. There is no front end that was written for this front end so an additional resource is needed to test and view API requests.
 
 # User Story
 AS A manager at an internet retail company
